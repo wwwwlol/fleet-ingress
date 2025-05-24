@@ -13,4 +13,4 @@ targetCustomizations:
       - values-aks-shared-mgmt-nonprod-centralus-01.yaml
     clusterSelector:
       matchLabels:
-        management.cattle.io/cluster-display-name: rke-test
+        management.cattle.io/cluster-display-name: local
